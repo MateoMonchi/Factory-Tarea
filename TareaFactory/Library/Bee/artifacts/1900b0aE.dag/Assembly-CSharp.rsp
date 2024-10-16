@@ -359,6 +359,7 @@
 "Assets/FXIFIED/common/Scripts/PowerUp.cs"
 "Assets/FXIFIED/common/Scripts/Quit.cs"
 "Assets/Script/Movimiento.cs"
+"Assets/Script/SkillBoton.cs"
 "Assets/Script/SkillFactory.cs"
 "Assets/Script/Skilll.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
