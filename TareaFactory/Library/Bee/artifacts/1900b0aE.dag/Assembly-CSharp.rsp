@@ -358,6 +358,8 @@
 "Assets/FXIFIED/common/Scripts/PlayerController.cs"
 "Assets/FXIFIED/common/Scripts/PowerUp.cs"
 "Assets/FXIFIED/common/Scripts/Quit.cs"
+"Assets/Script/FireBallSkill.cs"
+"Assets/Script/HealSkill.cs"
 "Assets/Script/Movimiento.cs"
 "Assets/Script/SkillBoton.cs"
 "Assets/Script/SkillFactory.cs"
